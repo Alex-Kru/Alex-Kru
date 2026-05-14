@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 - MS PowerPoint
 - MS Excel
 - Google Sheets
-- 1С
+- 1С/Бит Финанс/ERP
