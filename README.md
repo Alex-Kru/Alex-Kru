@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - Python
 - SQL
 - DataLens
-- MS PowerPoint
 - Jupyter Notebook
+- MS PowerPoint
 - MS Excel
+- Google Sheets
+- 1С
